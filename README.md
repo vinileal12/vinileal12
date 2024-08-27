@@ -14,8 +14,6 @@ Contatos:
 [![contato](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 )](https://www.linkedin.com/in/vinicius-leal-23bb38305/)
 
-
-!Lira GitHub stats
 <br/>
 
 Tecnologias que eu utilizo:
